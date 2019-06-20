@@ -1,1 +1,1 @@
-@Library('my-shared-library')
+@Library('build.groovy')
