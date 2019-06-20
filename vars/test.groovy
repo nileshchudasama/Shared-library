@@ -1,4 +1,5 @@
-def testing(String name = 'human')
+String name
+def testing(name)
 {
   echo "${name}"
 }
