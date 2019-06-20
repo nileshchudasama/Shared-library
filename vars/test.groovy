@@ -1,4 +1,4 @@
-def testing(string name = 'human')
+def testing(String name = 'human')
 {
   echo "${name}"
 }
