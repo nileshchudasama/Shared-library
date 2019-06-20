@@ -1,5 +1,5 @@
 String name
 def testing(name)
 {
-  echo "${name}"
+  echo "hello,${name}"
 }
