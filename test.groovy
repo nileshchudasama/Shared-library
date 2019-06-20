@@ -1,4 +1,4 @@
-def test()
+def test(string name = 'testing')
 {
-  echo "test calling ..."
+  echo "test calling ...${name}"
 }
